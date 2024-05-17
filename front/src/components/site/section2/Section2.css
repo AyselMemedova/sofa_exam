@@ -1,0 +1,28 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+.section2_all{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section2_all_header h3{
+    font-size: 36px;
+    color: #1a1a1a;
+    line-height: 27px;
+    font-weight: 700;
+    position: relative;
+    background: none ;
+    margin-bottom: 28px;
+}
+
+.col__card{
+    background-color: #ecfdff !important;
+
+} */

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: #ecfdff; */
+}
+
+.header{
+    padding: 20px;
+    background-color: #ecfdff;
+
+}
+
+.header .list ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 30px;
+}
+
+.header .icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
